@@ -16,7 +16,7 @@ EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识
 
 ## 使用下载
 
-* [使用文档](https://msec.nsfocus.com/ezdocs/)
+* [使用文档](https://docs.ezreal.cool/)
 * [M-SEC 社区在线下载](https://msec.nsfocus.com/?EZCommunity/)
 
 > EZ 使用需通过证书进行授权，用户可注册 M-SEC 社区（[https://msec.nsfocus.com/](https://msec.nsfocus.com/)）后在个人中心申请证书，每次仅能申请 1 个月使用期，证书申请后放至 EZ 同目录即可启动使用。
@@ -141,7 +141,7 @@ GLOBAL OPTIONS:
 
 支持单机部署反连平台。
 
-反连平台部署教程可参考：https://msec.nsfocus.com/ezdocs/docs/EZUSE/ez-reverse
+反连平台部署教程可参考：https://docs.ezreal.cool/docs/EZUSE/ez-reverse
 
 ### `crawler` 模块
 
@@ -169,7 +169,7 @@ GLOBAL OPTIONS:
 
 > EZ 从 1.5.0 版本开始使用 ez web 在启动时会默认设置安全路径为随机串，第一次需访问安全路径后才可正常登录，如果不想有安全路径则添加 `--no-safe-path` 参数，也可以使用 `--safe-path` 自定义安全路径.
 
-更多 EZ 使用技巧及高阶用法可参考在线文档：https://msec.nsfocus.com/ezdocs/
+更多 EZ 使用技巧及高阶用法可参考在线文档：https://docs.ezreal.cool/
 
 ## EZ 特性
 
@@ -187,8 +187,8 @@ GLOBAL OPTIONS:
 
 EZ 支持 `指纹`、`yaml poc`、`golang poc`自定义编写功能，用户可参考 EZ 使用文档编写自定义指纹或 POC 使用，也可使用 M-SEC 社区在线辅助 POC 编写功能进行自定义 POC 的编写。
 
-* EZ 在线使用手册：https://msec.nsfocus.com/ezdocs/
-* 在线辅助 POC 编写：https://msec.nsfocus.com/?ezpocgenerate/
+* EZ 在线使用手册：https://docs.ezreal.cool/
+* 在线辅助 POC 编写：https://docs.ezreal.cool/poc/
 
 ### 漏洞提交：
 
